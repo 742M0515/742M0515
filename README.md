@@ -1,7 +1,6 @@
 <h1 align="center">⦓ ˣ ʈɑᶻᴹʘs!ˢ ⛧ ᵖṩƴ©ʰʘˢɪ$ x ⦔</h1>
 <h3 align="center">a volatile conglomeration ov filth and fury</h3>
-<p align="center">banger of heads && enemy ov god</p>
-pokemaster ⛧ pirate ⛧ juggalo ⛧ maggot ⛧ fuckwit
+<p align="center">pokemaster ⛧ pirate ⛧ juggalo ⛧ maggot ⛧ fuckwit</p>
 
 
 <h3 align="center">other shit:</h3>
