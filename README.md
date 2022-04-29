@@ -1,5 +1,5 @@
 <h1 align="center">⦓ ˣ ʈɑᶻᴹʘs!ˢ ⛧ ᵖṩƴ©ʰʘˢɪ$ x ⦔</h1>
-<p align="center">pokemaster ⛧ pirate ⛧ juggalo ⛧ maggot ⛧ fuckwit</p>
+<p align="center">the motherfucker of the apocalypse</p>
 
 
 <h3 align="center">other shit:</h3>
