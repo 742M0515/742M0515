@@ -1,7 +1,3 @@
-<center>
-
-![Logo](/assets/tazmosis.png)
-
 i put the code in cacodemon,<br>
 and the git in prestidigitator.
 
