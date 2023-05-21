@@ -1,3 +1,11 @@
-<p align="center">ㄒ卂乙爪ㄖ丂丨丂</p>
-<p align="center">⛧</p>
-<p align="center">卩丂ㄚ匚卄ㄖ丂丨丂</p>
+<center>
+
+![Logo](/assets/tazmosis.png)
+
+i put the code in cacodemon,<br>
+and the git in prestidigitator.
+
+⛧⛧⛧⛧⛧
+
+![](https://komarev.com/ghpvc/?username=742M0515)
+
