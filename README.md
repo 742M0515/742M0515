@@ -1,4 +1,4 @@
-i put the GIT in PRESTIDIGITATOR, bitch!
+i put the GIT in PRESTIDIGITATOR.
 
 🔥⛪🔥
 
