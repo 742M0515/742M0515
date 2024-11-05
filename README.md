@@ -1,4 +1,6 @@
-i put the GIT in PRESTIDIGITATOR.
+i put the GIT in "GIT OFF THE ROAD, YOU FUCKING POOFTER BASTARD!"
+
+and the HUB in the CHUB in ya MUM.
 
 🔥⛪🔥
 
