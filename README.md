@@ -1,4 +1,4 @@
-<br clear="both">
+
 
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=speech&height=100&section=header&reversal=true&text=SUPCUNCE?!&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
@@ -12,7 +12,6 @@
 
 ###
 
-<br clear="both">
 
 <div data-importer="socials" align="center">
   <a href="https://facebook.com/tazmosis" target="_blank">
@@ -37,7 +36,6 @@
 
 ###
 
-<br clear="both">
 
 <div data-importer="techs" align="center">
   <img src="https://skillicons.dev/icons?i=astro" height="60" alt="astro logo"  />
@@ -57,13 +55,11 @@
 
 ###
 
-<br clear="both">
 
 <h2 data-importer="text" align="center">↑↑ ... shit i'm good at ... ↑↑<br><br>&&<br><br>↓↓ ... shit i'm not ... ↓↓</h2>
 
 ###
 
-<br clear="both">
 
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="60" alt="apple logo"  />
@@ -81,7 +77,7 @@
 
 ###
 
-<br clear="both">
+
 
 <p data-importer="text" align="center"></p>
 
