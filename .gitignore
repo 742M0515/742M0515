@@ -1,0 +1,32 @@
+# --- AI assistant / agent working dirs ---
+.kilo/
+.kilocode/
+.claude/
+.cursor/
+.windsurf/
+.aider*
+
+# --- OS junk ---
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# --- Editors ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- Environment / secrets ---
+.env
+.env.*
+!.env.example
+
+# --- Logs & temp files ---
+*.log
+tmp/
+*.tmp
+.cache/
+
+# --- Node (future-proofing) ---
+node_modules/
